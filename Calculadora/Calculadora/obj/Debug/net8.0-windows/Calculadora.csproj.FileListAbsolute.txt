@@ -1,0 +1,17 @@
+C:\Users\luhma\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+C:\Users\luhma\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+C:\Users\luhma\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+C:\Users\luhma\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+C:\Users\luhma\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\luhma\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
+C:\Users\luhma\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Calculadora.resources
+C:\Users\luhma\source\repos\Calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.sourcelink.json
